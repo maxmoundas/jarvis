@@ -1,5 +1,7 @@
 # Jarvis
 
+![Jarvis](Jarvis.png)
+
 A voice-controlled AI assistant that uses OpenAI's speech recognition, language model, and text-to-speech capabilities to create a Jarvis-like experience. Inspired by Tony Stark's AI assistant, this voice assistant responds to audio input with a playful British accent and witty personality.
 
 ## Features
